@@ -1,0 +1,11 @@
+##Customers Table
+
+CREATE TABLE customers (
+    customer_id VARCHAR(50) PRIMARY KEY,
+    name VARCHAR(100),
+    password VARCHAR(100),
+    email VARCHAR(100),
+    phone_number VARCHAR(15),
+    address VARCHAR(255),
+    role ENUM('Customer', 'Admin') DEFAULT 'Customer'
+);
