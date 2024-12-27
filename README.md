@@ -1,19 +1,29 @@
 # Car Rental System
-A Java-based Car Rental System with CRUD operations, role-based access, and MySQL integration.
+A Java-based Car Rental System designed using Object-Oriented Programming (OOP) principles, featuring role-based access for admins and customers. The system integrates MySQL for managing car inventory, rental transactions, and payments.
 
 ## Features
-- Role-based access for admins and customers
-- Dynamic car inventory management
-- Payment processing and rental history tracking
-- MySQL-backed database operations
+### Admin Features
+- Add, update, delete cars from inventory.
+- View rental history and generate earnings reports.
+- Display available cars in real-time.
+
+### Customer Features
+- Browse available cars and rent with multiple payment options (Credit Card, UPI, Cash).
+- Return cars and track rental history.
+
+### System Highlights
+- Role-based access control for security.
+- Real-time CRUD operations and dynamic payment status updates.
+- Scalable, modular, and optimized database queries.
 
 ## Technologies Used
-- Java
-- IntelliJ IDEA
-- MySQL
-- JDBC
+- **Programming Language:** Java  
+- **IDE:** IntelliJ IDEA  
+- **Database:** MySQL  
+- **Database Connectivity:** JDBC  
+- **Version Control:** Git, GitHub  
 
 ## How to Run
-1. Clone the repository.
-2. Configure database credentials in `DatabaseConnection.java`.
-3. Compile and run using IntelliJ IDEA or your preferred IDE.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<omkarsnagre>/CarRentalSystem.git
