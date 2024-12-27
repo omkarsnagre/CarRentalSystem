@@ -29,6 +29,6 @@ A Java-based Car Rental System designed using Object-Oriented Programming (OOP) 
    git clone https://github.com/<omkarsnagre>/CarRentalSystem.git
 
 2. Configure the database:
-   Create a MySQL database named car_rental.
-   Import the provided car_rental.sql script.
-   Update DatabaseConnection.java with your MySQL credentials
+- Create a MySQL database named car_rental.
+- Import the provided car_rental.sql script.
+- Update DatabaseConnection.java with your MySQL credentials
