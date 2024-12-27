@@ -32,7 +32,7 @@ A Java-based Car Rental System designed using Object-Oriented Programming (OOP) 
 - Create a MySQL database named car_rental.
 - Import the provided car_rental.sql script.
 - Update DatabaseConnection.java with your MySQL credentials
-```bash
+   ```bash
    private static final String URL = "jdbc:mysql://localhost:3306/car_rental";
    private static final String USER = "your_username";
    private static final String PASSWORD = "your_password";
