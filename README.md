@@ -41,7 +41,6 @@ A Java-based Car Rental System designed using Object-Oriented Programming (OOP) 
 
 ## Contact
 - Name: Omkar Nagre
-- GitHub: https://github.com/<omkarsnagre>
 - Email: omkarnagre777@gmail.com
 
 
