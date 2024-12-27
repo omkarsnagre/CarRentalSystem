@@ -36,8 +36,10 @@ A Java-based Car Rental System designed using Object-Oriented Programming (OOP) 
    private static final String URL = "jdbc:mysql://localhost:3306/car_rental";
    private static final String USER = "your_username";
    private static final String PASSWORD = "your_password";
+
 3. Build and run the project in IntelliJ IDEA.
-##Contact
+
+## Contact
 Name: Omkar Nagre
 GitHub: https://github.com/<omkarsnagre>
 Email: omkarnagre777@gmail.com
