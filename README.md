@@ -39,8 +39,7 @@ A Java-based Car Rental System designed using Object-Oriented Programming (OOP) 
 
 3. Build and run the project in IntelliJ IDEA.
 
-## Contact
-- Name: Omkar Nagre
-- Email: omkarnagre777@gmail.com
+## Contact 📫
+Got questions or suggestions? I’d love to hear from you! You can reach me at omkarnagre777@gmail.com .
 
 
