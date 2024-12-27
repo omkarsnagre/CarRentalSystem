@@ -40,8 +40,8 @@ A Java-based Car Rental System designed using Object-Oriented Programming (OOP) 
 3. Build and run the project in IntelliJ IDEA.
 
 ## Contact
-Name: Omkar Nagre
-GitHub: https://github.com/<omkarsnagre>
-Email: omkarnagre777@gmail.com
+- Name: Omkar Nagre
+- GitHub: https://github.com/<omkarsnagre>
+- Email: omkarnagre777@gmail.com
 
 
